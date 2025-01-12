@@ -13,3 +13,40 @@ body {
     background-color: $body-bg;
     color: #0F0D01;
 }
+
+.donate__button-link {
+    text-decoration: none;
+    color: #fefae1;
+}
+
+.pagetitle {
+    text-decoration: none;
+    color: #0f0d01;
+    
+}
+
+.bio__text {
+    text-align: left;
+}
+
+.yoga__text {
+    text-align: left;
+}
+
+.dropdown__content {
+    visibility: hidden;
+}
+
+.donatehere__text {
+    text-align: center;
+}
+
+.italic__text {
+    font-style: italic;
+}
+
+.list__items {
+    display: flex;
+    gap: 150px;
+    
+}
